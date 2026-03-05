@@ -1,0 +1,29 @@
+# Python & Virtual Environment
+__pycache__/
+myenv/
+
+
+# Django
+*.log
+db.sqlite3
+
+# IDEs & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+
+# Environment variables
+.env
+
+# Node & Frontend
+node_modules/
+npm-debug.log
+yarn-error.log
+dist/
+.vite
+
+# OS
+.DS_Store
+Thumbs.db
